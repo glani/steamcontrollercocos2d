@@ -1,4 +1,5 @@
 # Steam Controller Cocos2d demo implementation
+![s01o]
 
 - Clone repository
 - Run **git submodule update --init --recursive**
@@ -28,4 +29,7 @@ Add additional include directory
             external/steamcontrollercocos/
             ...
     )
+    
+    
+[s01o]: Screenshots/001.png "Example Cocos2D Steam Controller Implememntation"
 
