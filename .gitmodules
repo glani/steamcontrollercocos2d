@@ -1,0 +1,3 @@
+[submodule "external/steamcontrollercocos"]
+	path = external/steamcontrollercocos
+	url = https://github.com/glani/steamcontrollercocos.git
