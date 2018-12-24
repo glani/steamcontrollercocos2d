@@ -475,6 +475,7 @@ void HelloWorld::onDisconnectedSteamController(cocos2d::SteamController *steamCo
             this->currentSteamController = nullptr;
         }
     }
+    this->updateSteamControllers();
 }
 
 void HelloWorld::onUpdateSteamController(cocos2d::SteamController *steamController, cocos2d::Event *event) {
